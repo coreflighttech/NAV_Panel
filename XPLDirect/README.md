@@ -3,7 +3,7 @@ How to upload Firmware to the Core Flight Tech. B737 NAV Panel?
 -Close all applications and be sure X-Plane 11 is not running at the background. 
 
 The Nav. you have is configurated to run via XPLDirect with X-Plane 11 Zibo737. Update the firmware by following the steps;
-1) Download the Uploader
+1) Download the "Uploader" (https://github.com/coreflighttech/Uploader)
 2) Download the Firmwares (CPT.. or F/O..)
 3) Close all applications 
 4) Connect Nav Panel. via USB and be sure only NAV. Panel is connected.
@@ -24,7 +24,8 @@ The Nav. you have is configurated to run via XPLDirect with X-Plane 11 Zibo737. 
 
 Important Note: While uploading, never cut the communication of the NAV.Panel. Otherwise, there is no way to recovery if damaged.
 
-[STABLE] XPL_CPT_NAV_RADIO_v2.hex
+[STABLE] XPL_CPT_NAV_RADIO_v2.hex    
+
 [STABLE] XPL_FO_NAV_RADIO.hex
 
 https://coreflighttech.com/product/b737-nav-radio-module-2/
