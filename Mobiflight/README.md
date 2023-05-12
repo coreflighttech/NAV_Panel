@@ -8,7 +8,7 @@ How to upload the Custom Firmware to the Core Flight Tech. B737 NAV Panel?
 Please be careful while uploading. Uploading the wrong version can make your device totally useless.
 
 -Download the "Uploader" -> https://github.com/coreflighttech/Uploader
- -Close all applications and be sure Mobiflight is not running in the background
+-Close all applications and be sure Mobiflight is not running in the background
  -Connect NAV via USB
  -Run Xloader.exe in the "Uploader"
  -Click "Hex File" selection button.
