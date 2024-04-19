@@ -1,4 +1,4 @@
-Firmware tested with SPAD_v0.9.12.123
+NAV Panel communicates with SPAD.neXt via SerialV2. The Baud Rate is 115200
 
 How to install firmware -> https://github.com/coreflighttech/Uploader
 
